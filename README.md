@@ -6,6 +6,7 @@
 	 -  [leetcode](https://leetcode.com/Nagdatt/)
 	 - [Codechef](https://www.codechef.com/users/nagdatt_gajjam)
 	 - [LinkedIn](https://www.linkedin.com/in/nagdatt-g-a97b461b5/)
+<img src="https://github-readme-stats.vercel.app/api?username=nagdatt&show_icons=true&theme=radical"/>
 <!--
 **nagdatt/nagdatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
