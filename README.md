@@ -2,6 +2,10 @@
 - 🔭 I’m currently working at StrawHats technologies (https://strawhats.in/) as a Web developer as well as Androi developer...
 - 🌱 I’m currently learning Blockchain Technolgy and Machine learning from IIT madras (NPTEL Course)
 - 🏢 Previous worked at Bodhi technology as web developer
+- Other profiles-
+	 -  [leetcode](https://leetcode.com/Nagdatt/)
+	 - [Codechef](https://www.codechef.com/users/nagdatt_gajjam)
+	 - [LinkedIn](https://www.linkedin.com/in/nagdatt-g-a97b461b5/)
 <!--
 **nagdatt/nagdatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
