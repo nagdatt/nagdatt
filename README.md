@@ -1,5 +1,5 @@
 ### Hola! I'm Nagdatt Gajjam👋
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working at StrawHats technologies (https://strawhats.in/)...
 - 🌱 I’m currently learning ...<link>hellol.com</link>
 
 <!--
