@@ -1,7 +1,7 @@
 ### Hola! I'm Nagdatt Gajjam👋
 - 🔭 I’m currently working at StrawHats technologies (https://strawhats.in/) as a Web developer as well as Androi developer...
 - 🌱 I’m currently learning Machine Learning Algorithms, Data science and Advance Java
-- Recently completed Data science for engineers from **IIT** **madras** (NPTEL Course)
+- 🎫 Recently completed Data science for engineers from **IIT** **madras** (NPTEL Course)
 - 🏢 Previous worked at Bodhi technology as web developer
 - Other profiles-
 	 -  [leetcode](https://leetcode.com/Nagdatt/)
