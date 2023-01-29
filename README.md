@@ -1,8 +1,8 @@
 ### Hola! I'm Nagdatt Gajjam👋
-- 🔭 I’m currently working at StrawHats technologies (https://strawhats.in/) as a Web developer as well as Androi developer...
-- 🌱 I’m currently learning Machine Learning Algorithms, Data science and Advance Java
-- 🎫 Recently completed Data science for engineers from **IIT** **madras** (NPTEL Course)
-- 🏢 Previous worked at Bodhi technology as web developer
+-  I’m currently pursuing B.Tech in Computer science and Engineering from N.B.N. Sinhgad Collage of Engineering Solapur.
+- I’m currently learning Machine Learning Algorithms, Data science and Advance Java
+- Recently completed Data science for engineers from **IIT madras** (NPTEL Course)
+- Previous worked at Bodhi technology as web developer
 - Other profiles-
 	 -  [leetcode](https://leetcode.com/Nagdatt/)
 	 - [Codechef](https://www.codechef.com/users/nagdatt_gajjam)
