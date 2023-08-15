@@ -1,5 +1,5 @@
 ### Hola! I'm Nagdatt Gajjam👋
--  I’m currently pursuing B.Tech in Computer science and Engineering from N.B.N. Sinhgad Collage of Engineering Solapur.
+-  I have complete my B.Tech in Computer science and Engineering from N.B.N. Sinhgad Collage of Engineering Solapur with **9.68 CGPA**.
 - I’m currently learning Machine Learning Algorithms, Data science and Advance Java
 - Recently completed Data science for engineers from **IIT madras** (NPTEL Course)
 - Previous worked at Bodhi technology as web developer
