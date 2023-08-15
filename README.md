@@ -1,6 +1,6 @@
 ### Hola! I'm Nagdatt Gajjam👋
 -  I have complete my B.Tech in Computer science and Engineering from N.B.N. Sinhgad Collage of Engineering, Solapur with **9.68 CGPA**.
-- Previous worked at Bodhi technology as web developer
+- Previously worked at Bodhi technology as a software developer Inten.
 - Other profiles-
 	 -  [leetcode](https://leetcode.com/Nagdatt/)
 	 - [LinkedIn](https://www.linkedin.com/in/nagdatt-g-a97b461b5/)
