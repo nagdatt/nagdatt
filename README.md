@@ -14,8 +14,8 @@
 [![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Hello everyone,I'm 2023 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
-🌱 &nbsp;I'm currently working @UNITED IMAGING HEALTHCARE as Software development Engineer.\
+💡 &nbsp;Hello everyone,I'm **2023** pass out graduate with **BTech CSE**. I enjoy collaborating with people on works of similar interest. \
+🌱 &nbsp;I'm currently working ** @UNITED IMAGING HEALTHCARE** as **Software development Engineer**.\
 ✉️ &nbsp;You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!\
 
 -----
