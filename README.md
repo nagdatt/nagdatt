@@ -243,9 +243,9 @@
  
 </p>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Nagdatt)]
 
 <p>&nbsp;
-![Leetcode Stats](https://leetcard.jacoblin.cool/Nagdatt)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagdatt&" alt="nagdatt" />
 </p>
