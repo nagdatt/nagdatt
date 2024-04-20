@@ -20,6 +20,7 @@
 ✉️ &nbsp;You can email me at nagdatt.h.gajjam@gmail.com. I'll try to respond as soon as possible! \
 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 -----
 ### 📫 &nbsp; How to reach me:
