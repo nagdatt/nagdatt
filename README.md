@@ -15,7 +15,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Hello everyone,I'm **2023** pass out graduate with **BTech CSE**. I enjoy collaborating with people on works of similar interest. \
-🌱 &nbsp;I'm currently working ** @UNITED IMAGING HEALTHCARE** as **Software development Engineer**.\
+🌱 &nbsp;I'm currently working **@UNITED IMAGING** **HEALTHCARE** as **Software development Engineer**.\
 ✉️ &nbsp;You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!\
 
 -----
