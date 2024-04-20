@@ -20,7 +20,6 @@
 ✉️ &nbsp;You can email me at nagdatt.h.gajjam@gmail.com. I'll try to respond as soon as possible! \
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Nagdatt)
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagdatt&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -----
 ### 📫 &nbsp; How to reach me:
@@ -246,7 +245,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagdatt&show_icons=true&locale=en" alt="nagdatt" />
+<p>&nbsp;![Leetcode Stats](https://leetcard.jacoblin.cool/Nagdatt)
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagdatt&" alt="nagdatt" />
 </p>
 
