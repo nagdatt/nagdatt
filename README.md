@@ -21,6 +21,7 @@
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Nagdatt)
+[![Nagdatt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagdatt)](https://github.com/nagdatt/github-readme-activity-graph)
 
 -----
 ### 📫 &nbsp; How to reach me:
