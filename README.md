@@ -243,12 +243,7 @@
  
 </p>
 
-
-<div>
-![Leetcode Stats](https://leetcard.jacoblin.cool/Nagdatt)
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagdatt&" alt="nagdatt" />
-</div>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Nagdatt) <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagdatt&" alt="nagdatt" />
 
 <p></p>
 
