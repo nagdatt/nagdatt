@@ -242,8 +242,10 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagdatt&show_icons=true&locale=en" alt="nagdatt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagdatt&show_icons=true&locale=en" alt="nagdatt" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagdatt&" alt="nagdatt" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagdatt&" alt="nagdatt" /></p>
+<p></p>
 
 
