@@ -11,7 +11,7 @@
 -----
 
 ![profile count](https://komarev.com/ghpvc/?username=nagdatt&color=red)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+[![GitHub nagdatt](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Hello everyone,I'm **2023** pass out graduate with **BTech CSE**. I enjoy collaborating with people on works of similar interest. \
