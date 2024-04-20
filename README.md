@@ -17,7 +17,7 @@
 💡 &nbsp;Hello everyone,I'm **2023** pass out graduate in **BTech CSE**. I enjoy collaborating with people on works of similar interest. \
 🌱 &nbsp;I'm currently working **@UNITED IMAGING** **HEALTHCARE** as **Software development Engineer**.\
 💻 &nbsp;Working on **MERN stack**, **Python with ROS**, and **C++ Algorithm Development** technologies. \
-✉️ &nbsp;You can email me at nagdatt.h.gajjam@gmail.com. I'll try to respond as soon as possible! \
+✉️ &nbsp;You can email me at nagdatt.h.gajjam@gmail.com. I'll try to respond as soon as possible! 
 
 
 -----
